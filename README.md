@@ -16,3 +16,4 @@ The cell collapse feature within JupyterLab is useful to reduce clutter.  The fi
 
 ![Example output](plot.png)
 
+The example is a 4n7 polyester capacitor.  The parasitic inductance and self resonance can be clearly seen.
